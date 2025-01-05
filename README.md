@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 - Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/lokeshnaik7569)
 - Tools and technologies from <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a> ecosystem
 - 📬 How to reach me: [lokeshnaik7569@gmail.com](mailto:lokeshnaik7569@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1zhPgY4X426LZwucOwHmwiP1Dgxu6fVZE/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1HMwxT0zjIdKqVkr5Vd1ajzlsTfmzl_5i/view?usp=drive_link).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
