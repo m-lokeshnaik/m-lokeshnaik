@@ -1,99 +1,133 @@
-# Welcome to [Lokesh Naik's](https://github.com/m-lokeshnaik) profile! <a href="https://github.com/m-lokeshnaik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Lokesh Naik's](https://github.com/m-lokeshnaik) Profile! 👋
 
-<a href="https://www.linkedin.com/in/ lokesh-naik-0a7a27257" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
+<a href="https://github.com/m-lokeshnaik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<a href="https://www.linkedin.com/in/mudelokeshnaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/_unknown_user7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh naik" height="30" width="40" /></a>
-&nbsp;
-
-
-
-## Glad to see you here! &nbsp;
-
-I am a  machine learning engineer and 3d model designer. I love programming, reading, writing and speaking.
-
-As a ML engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-
-### Talking about Personal Stuffs:
-
-- 👨‍🎓 I'm a **Senior ML Engineering Student**
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-- Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/lokeshnaik7569)
-- Tools and technologies from <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a> ecosystem
-- 📬 How to reach me: [lokeshnaik7569@gmail.com](mailto:lokeshnaik7569@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/19qUDTip3cK46cOTUqWOatk1VmC9FnC8l/view?usp=drive_link).
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/m-lokeshnaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/lokeshnaik7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_unknown_user7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 &nbsp;
 
 ---
 
-## 🛠️ My favorite tools
+## About Me 🚀
 
-### 👨‍💻 Programming languages
+I'm a **Machine Learning Engineer** with a strong foundation in AI and a passion for crafting impactful solutions. As a recent Computer Science graduate specializing in AI & ML, I thrive on transforming complex data into actionable insights and deploying robust, scalable AI-driven systems. My obsessive attention to detail and unwavering commitment drive me to build things that truly make a difference in the world.
+
+---
+
+## My Expertise 🧠
+
+### 👨‍💻 Programming Languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <!-- <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> -->
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <!--<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>-->
-    <!-- <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <!-- <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a> -->
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Machine Learning & AI Frameworks/Libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face-FFBE3B?logo=huggingface&logoColor=white"></a>
+    <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-4285F4?logo=googlegemini&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="CNN" src="https://img.shields.io/badge/CNN-CC0000.svg?style=for-the-badge&logo=CNN&logoColor=white"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-    <a href="#"><img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-CB3905?logo=matplotlib&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 📊 Data & Business Intelligence Tools
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="#"><img alt="Google colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=power-bi&logoColor=black"></a>
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
 </p>
+
+### ⚙️ Development & DevOps Tools
+
+<p>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="pytest" src="https://img.shields.io/badge/pytest-0A6BB6.svg?logo=pytest&logoColor=white"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
+    <a href="#"><img alt="Lovable" src="https://img.shields.io/badge/Lovable-FF69B4.svg"></a>
+</p>
+
+### 🧠 Concepts & Methodologies
+
+<p>
+    <a href="#"><img alt="OOP" src="https://img.shields.io/badge/OOP-F7DF1E?logo=python&logoColor=black"></a>
+    <a href="#"><img alt="Data Structures & Algorithms" src="https://img.shields.io/badge/DSA-FF6F00?logo=leetcode&logoColor=white"></a>
+    <a href="#"><img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-007ACC?logo=api&logoColor=white"></a>
+    <a href="#"><img alt="Agile Methodologies" src="https://img.shields.io/badge/Agile-20232a?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Retrieval-Augmented Generation (RAG)" src="https://img.shields.io/badge/RAG-FFBE3B?logo=huggingface&logoColor=white"></a>
+    <a href="#"><img alt="BERT" src="https://img.shields.io/badge/BERT-4285F4?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-4285F4?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="ANOVA" src="https://img.shields.io/badge/ANOVA-F7931E?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Mutual Information" src="https://img.shields.io/badge/Mutual%20Information-F7931E?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="SDLC" src="https://img.shields.io/badge/SDLC-007ACC?logo=azuredevops&logoColor=white"></a>
+    <a href="#"><img alt="Test-Driven Development (TDD)" src="https://img.shields.io/badge/TDD-0A6BB6?logo=pytest&logoColor=white"></a>
+    <a href="#"><img alt="Multithreading" src="https://img.shields.io/badge/Multithreading-14354C?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="API Integration" src="https://img.shields.io/badge/API%20Integration-007ACC?logo=restapi&logoColor=white"></a>
+    <a href="#"><img alt="Data Pipelines" src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?logo=apacheairflow&logoColor=white"></a>
+    <a href="#"><img alt="A/B Testing" src="https://img.shields.io/badge/A%2FB%20Testing-F7DF1E?logo=googleoptimize&logoColor=black"></a>
+    <a href="#"><img alt="Cloud Deployment (Basics)" src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?logo=googlecloud&logoColor=white"></a>
+</p>
+---
+
+## GitHub Activity & Stats 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-lokeshnaik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lokesh Naik's GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-lokeshnaik&theme=radical&hide_border=true" alt="Lokesh Naik's GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-lokeshnaik&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+### GitHub Trophies 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-lokeshnaik&theme=radical&no-frame=true&no-bg=true" alt="Lokesh Naik's GitHub Trophies" />
+</p>
+
+---
+
+## Dynamic Profile Insights ✨
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=m-lokeshnaik&color=blueviolet" alt="Profile Views">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/m-lokeshnaik?style=flat&label=Total%20Stars&color=FFD700" alt="Total Stars">
+</p>
+
+---
+
+## Let's Connect! 🤝
+
+- 💬 Ask me about anything, I am happy to help!
+- 📬 How to reach me: [lokeshnaik7569@gmail.com](mailto:lokeshnaik7569@gmail.com)
+- 📝 My detailed resume: [Click Here](https://drive.google.com/file/d/19qUDTip3cK46cOTUqWOatk1VmC9FnC8l/view?usp=drive_link)
+
+### Find me around the web:
+
+<a href="https://www.linkedin.com/in/mudelokeshnaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/_unknown_user7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/lokeshnaik7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+&nbsp;
+
+---
