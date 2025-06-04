@@ -1,99 +1,259 @@
-# Welcome to [Lokesh Naik's](https://github.com/m-lokeshnaik) profile! <a href="https://github.com/m-lokeshnaik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+import React from 'react';
+import { Github, Linkedin, Instagram, Mail, ExternalLink, Code, Database, Cpu, Globe } from 'lucide-react';
+import { Card, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 
-<a href="https://www.linkedin.com/in/ lokesh-naik-0a7a27257" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/_unknown_user7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh naik" height="30" width="40" /></a>
-&nbsp;
+const Index = () => {
+  const socialLinks = [
+    {
+      name: 'GitHub',
+      url: 'https://github.com/m-lokeshnaik',
+      icon: <Github className="w-5 h-5" />,
+      color: 'hover:bg-gray-800'
+    },
+    {
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/lokesh-naik-0a7a27257',
+      icon: <Linkedin className="w-5 h-5" />,
+      color: 'hover:bg-blue-600'
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/_unknown_user7569/',
+      icon: <Instagram className="w-5 h-5" />,
+      color: 'hover:bg-pink-600'
+    },
+    {
+      name: 'Email',
+      url: 'mailto:lokeshnaik7569@gmail.com',
+      icon: <Mail className="w-5 h-5" />,
+      color: 'hover:bg-red-600'
+    }
+  ];
 
+  const programmingLanguages = [
+    { name: 'Python', color: 'bg-blue-500' },
+    { name: 'C', color: 'bg-blue-600' },
+    { name: 'SQL', color: 'bg-orange-500' },
+    { name: 'HTML', color: 'bg-orange-600' },
+    { name: 'CSS', color: 'bg-blue-400' },
+    { name: 'Bash', color: 'bg-gray-700' }
+  ];
 
+  const frameworks = [
+    { name: 'TensorFlow', color: 'bg-orange-500' },
+    { name: 'PyTorch', color: 'bg-red-500' },
+    { name: 'Keras', color: 'bg-red-600' },
+    { name: 'OpenCV', color: 'bg-green-600' },
+    { name: 'NumPy', color: 'bg-blue-700' },
+    { name: 'Pandas', color: 'bg-purple-600' },
+    { name: 'Arduino', color: 'bg-teal-600' }
+  ];
 
-## Glad to see you here! &nbsp;
+  const tools = [
+    { name: 'Git', color: 'bg-orange-600' },
+    { name: 'Jupyter', color: 'bg-orange-500' },
+    { name: 'VS Code', color: 'bg-blue-600' },
+    { name: 'Google Colab', color: 'bg-yellow-500' },
+    { name: 'Kaggle', color: 'bg-blue-400' },
+    { name: 'MySQL', color: 'bg-blue-600' }
+  ];
 
-I am a  machine learning engineer and 3d model designer. I love programming, reading, writing and speaking.
+  const achievements = [
+    "Senior ML Engineering Student",
+    "3D Model Designer",
+    "Machine Learning Engineer",
+    "Problem Solver on HackerRank & LeetCode"
+  ];
 
-As a ML engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100">
+      {/* Header Section */}
+      <div className="relative overflow-hidden bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 text-white">
+        <div className="absolute inset-0 bg-black/20"></div>
+        <div className="relative max-w-6xl mx-auto px-6 py-16">
+          <div className="text-center">
+            <div className="mb-6">
+              <div className="w-32 h-32 mx-auto bg-white/20 rounded-full flex items-center justify-center mb-4 backdrop-blur-sm">
+                <span className="text-4xl font-bold">LN</span>
+              </div>
+              <h1 className="text-5xl font-bold mb-2">
+                Lokesh Naik
+                <span className="inline-block ml-2 animate-bounce">👋</span>
+              </h1>
+              <p className="text-xl text-blue-100 mb-6">Machine Learning Engineer & 3D Model Designer</p>
+            </div>
+            <div className="flex justify-center space-x-4 mb-8">
+              {socialLinks.map((link) => (
+                <a
+                  key={link.name}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={`p-3 bg-white/20 backdrop-blur-sm rounded-full transition-all duration-300 ${link.color} transform hover:scale-110`}
+                >
+                  {link.icon}
+                </a>
+              ))}
+            </div>
+            <div className="flex justify-center space-x-4">
+              <Button variant="secondary" className="bg-white/20 backdrop-blur-sm border-white/30 text-white hover:bg-white/30">
+                <a href="https://drive.google.com/file/d/19qUDTip3cK46cOTUqWOatk1VmC9FnC8l/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                  View Resume <ExternalLink className="ml-2 w-4 h-4" />
+                </a>
+              </Button>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* Main Content */}
+      <div className="max-w-6xl mx-auto px-6 py-12">
+        {/* About Section */}
+        <Card className="mb-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
+          <CardContent className="p-8">
+            <h2 className="text-3xl font-bold mb-6 text-gray-800 flex items-center">
+              <Code className="mr-3 text-blue-600" />
+              About Me
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8">
+              <div>
+                <p className="text-gray-600 text-lg leading-relaxed mb-6">
+                  I am a machine learning engineer and 3D model designer who loves programming, reading, writing and speaking. 
+                  As a ML engineer, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world.
+                </p>
+                <p className="text-gray-600 text-lg leading-relaxed">
+                  That's why I like to make things that make a difference.
+                </p>
+              </div>
+              <div>
+                <h3 className="text-xl font-semibold mb-4 text-gray-800">Achievements</h3>
+                <div className="space-y-3">
+                  {achievements.map((achievement, index) => (
+                    <div key={index} className="flex items-center">
+                      <div className="w-2 h-2 bg-blue-600 rounded-full mr-3"></div>
+                      <span className="text-gray-600">{achievement}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+        {/* Current Learning */}
+        <Card className="mb-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
+          <CardContent className="p-8">
+            <h2 className="text-3xl font-bold mb-6 text-gray-800 flex items-center">
+              <Cpu className="mr-3 text-green-600" />
+              Currently Learning
+            </h2>
+            <div className="grid md:grid-cols-2 gap-6">
+              <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg">
+                <h3 className="text-lg font-semibold mb-3 text-gray-800">Data Structures & Algorithms</h3>
+                <p className="text-gray-600 mb-3">Practicing on HackerRank to strengthen problem-solving skills</p>
+                <a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 flex items-center">
+                  View Profile <ExternalLink className="ml-2 w-4 h-4" />
+                </a>
+              </div>
+              <div className="bg-gradient-to-r from-orange-50 to-red-50 p-6 rounded-lg">
+                <h3 className="text-lg font-semibold mb-3 text-gray-800">TensorFlow Ecosystem</h3>
+                <p className="text-gray-600">Exploring advanced tools and technologies for machine learning</p>
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+        {/* Skills Section */}
+        <div className="grid lg:grid-cols-3 gap-8 mb-8">
+          <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <CardContent className="p-6">
+              <h3 className="text-xl font-bold mb-4 text-gray-800 flex items-center">
+                <Code className="mr-2 text-blue-600" />
+                Programming Languages
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {programmingLanguages.map((lang) => (
+                  <Badge key={lang.name} className={`${lang.color} text-white hover:scale-105 transition-transform`}>
+                    {lang.name}
+                  </Badge>
+                ))}
+              </div>
+            </CardContent>
+          </Card>
+          <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <CardContent className="p-6">
+              <h3 className="text-xl font-bold mb-4 text-gray-800 flex items-center">
+                <Cpu className="mr-2 text-green-600" />
+                Frameworks & Libraries
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {frameworks.map((framework) => (
+                  <Badge key={framework.name} className={`${framework.color} text-white hover:scale-105 transition-transform`}>
+                    {framework.name}
+                  </Badge>
+                ))}
+              </div>
+            </CardContent>
+          </Card>
+          <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <CardContent className="p-6">
+              <h3 className="text-xl font-bold mb-4 text-gray-800 flex items-center">
+                <Database className="mr-2 text-purple-600" />
+                Tools & Software
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {tools.map((tool) => (
+                  <Badge key={tool.name} className={${tool.color} text-white hover:scale-105 transition-transform}>
+                    {tool.name}
+                  </Badge>
+                ))}
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+        {/* Coding Platforms */}
+        <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300">
+          <CardContent className="p-8">
+            <h2 className="text-3xl font-bold mb-6 text-gray-800 flex items-center">
+              <Globe className="mr-3 text-indigo-600" />
+              Coding Platforms
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <a href="https://github.com/m-lokeshnaik" target="_blank" rel="noopener noreferrer" className="block">
+                <div className="bg-gradient-to-r from-gray-800 to-black text-white p-6 rounded-lg hover:scale-105 transition-transform">
+                  <Github className="w-8 h-8 mb-3" />
+                  <h3 className="text-lg font-semibold">GitHub</h3>
+                  <p className="text-gray-300">View my repositories and projects</p>
+                </div>
+              </a>
+              <a href="https://leetcode.com/lokeshnaik7569/" target="_blank" rel="noopener noreferrer" className="block">
+                <div className="bg-gradient-to-r from-orange-500 to-yellow-500 text-white p-6 rounded-lg hover:scale-105 transition-transform">
+                  <Code className="w-8 h-8 mb-3" />
+                  <h3 className="text-lg font-semibold">LeetCode</h3>
+                  <p className="text-orange-100">Algorithm problem solving</p>
+                </div>
+              </a>
+              <a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank" rel="noopener noreferrer" className="block">
+                <div className="bg-gradient-to-r from-green-500 to-teal-500 text-white p-6 rounded-lg hover:scale-105 transition-transform">
+                  <Database className="w-8 h-8 mb-3" />
+                  <h3 className="text-lg font-semibold">HackerRank</h3>
+                  <p className="text-green-100">Coding challenges and contests</p>
+                </div>
+              </a>
+            </div>
+          </CardContent>
+        </Card>
+        {/* Contact Section */}
+        <div className="text-center mt-12 p-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg text-white">
+          <h2 className="text-2xl font-bold mb-4">Let's Connect!</h2>
+          <p className="text-lg mb-6">Feel free to reach out for collaborations or just a friendly chat</p>
+          <a href="mailto:lokeshnaik7569@gmail.com" className="inline-flex items-center bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-blue-50 transition-colors">
+            <Mail className="mr-2 w-5 h-5" />
+            lokeshnaik7569@gmail.com
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+};
 
-That's why I like to make things that make a difference.
-
-
-### Talking about Personal Stuffs:
-
-- 👨‍🎓 I'm a **Senior ML Engineering Student**
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-- Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/lokeshnaik7569)
-- Tools and technologies from <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a> ecosystem
-- 📬 How to reach me: [lokeshnaik7569@gmail.com](mailto:lokeshnaik7569@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/19qUDTip3cK46cOTUqWOatk1VmC9FnC8l/view?usp=drive_link).
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/m-lokeshnaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/lokeshnaik7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
-&nbsp;
-
----
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <!-- <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> -->
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <!--<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>-->
-    <!-- <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <!-- <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a> -->
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="CNN" src="https://img.shields.io/badge/CNN-CC0000.svg?style=for-the-badge&logo=CNN&logoColor=white"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-    <a href="#"><img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="#"><img alt="Google colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+export default Index;
